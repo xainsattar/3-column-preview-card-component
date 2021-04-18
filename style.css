@@ -61,18 +61,23 @@ button {
   div {
   float: left;
   }
+   .container {
+        width: 90%;
+        margin: 0 auto;
+        padding: 10% 0;
+    }
   body {
-  margin: 5px;
+  margin:  0 0 0 11%;
   }
   div.sedan {
-  width: 25%;
+  width: 23%;
   border-radius: 10px 0px 0px 10px;
   }
   div.suvs {
-  width: 25%;
+  width: 23%;
   }
   div.luxury {
-  width: 25%;
+  width: 23%;
   border-radius: 0px 10px 10px 0px;
   }
   }
